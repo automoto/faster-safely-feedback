@@ -1,6 +1,6 @@
 # fastersafely.com Feedback
 
-This is the place you can submit feedback about the content of fastersafely.com
+This is the place you can submit feedback about the content of [fastersafely.com](https://fastersafely.com)
 
 Create a new issue to report any typo's or inaccuracies in the content by creating an issue [here](https://github.com/automoto/faster-safely-feedback/issues/new) and use a label of `typo/grammar problem` or `invalid`.
 
